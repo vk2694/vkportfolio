@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/vk-portfolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
